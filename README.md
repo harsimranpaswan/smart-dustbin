@@ -4,3 +4,4 @@ The dustboin opens automatically whenever someone comes in front of it (anywhere
 
 https://user-images.githubusercontent.com/97794339/180653829-ef958975-51dd-4375-b105-a3d216e84974.mp4
 
+![smart_dustbin_circuit](https://user-images.githubusercontent.com/97794339/180655154-a86d0d45-339e-490d-ae33-160a0c9afc5c.png)
